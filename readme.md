@@ -30,3 +30,7 @@
 var b = 2
 console.log(b)
 ~~~
+
+我的网站是[吴穷的官网](http://wuqiong.com)
+
+![a picture](1.png)
